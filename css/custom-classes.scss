@@ -1,0 +1,14 @@
+.flex-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fixed-size-img {
+  width: 560px;
+  object-fit: contain;
+}
+
+.text-margin {
+  /* please don't tell anyone how i live */
+  margin: 0px 32px !important;
+}
