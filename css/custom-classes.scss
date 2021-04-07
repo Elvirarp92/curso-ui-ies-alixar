@@ -4,8 +4,16 @@
 }
 
 .fixed-size-img {
-  width: 560px;
   object-fit: contain;
+}
+
+.img-m {
+  width: 400px;
+  margin: 16px;
+}
+
+.img-l {
+  width: 560px;
 }
 
 .text-margin {
